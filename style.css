@@ -3,8 +3,8 @@ body{
      margin: 0%;
 }
 section{
-     height: 800px;
-     padding: 0px;
+     height: 750px;
+     padding: 30px;
 }
 h1{
      font-size: 50px;
@@ -60,11 +60,12 @@ p{
      float: left;
      width: 30%;
      padding: 10px;
-     margin: 7px;
+     margin: 13px;
 }
-#pic img{
+.pic img{
      width: 100%;
 }
+
 #lastet{
      text-align: center;
      font-size: 40px;
@@ -74,17 +75,17 @@ p{
 #example1{
      box-shadow: 10px 10px 40px darkcyan;
      border-radius: 10px;
-     height: 48%;
+     height: 55%;
 }
 #example2{
      box-shadow: 10px 10px 40px purple;
      border-radius: 10px;
-     height: 48%;
+     height: 55%;
 }
 #example3{
      box-shadow: 10px 10px 40px orangered;
      border-radius: 10px;
-     height: 48%;
+     height: 55%;
 }
 .inquiry{
      background-image: url("shapes/Group_33094_1.png");
@@ -138,13 +139,13 @@ footer{
 }
 .list{
     float: left;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+    font-size: 25px;
     margin-left: 250px;
-    margin-top: 60px;
-    margin-right: 0;
-    margin-bottom: 50px;
-    font-size: 16px;
 }
 .section2{
-     height: 200px;
+     height: 100px;
 }
 
